@@ -5,3 +5,11 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+dt {
+  display: inline-block;
+}
+
+dd {
+  display: inline-block;
+}
