@@ -1,11 +1,11 @@
 html {
   background-color: #f0eee8;
 
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *, *::before, *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 a {
@@ -24,12 +24,8 @@ a {
   width: 320px;
 }
 
-.link-card:hover {
-
-}
-
 h2 {
-  font-family: "Dosis", sans-serif;;
+  font-family: "Dosis", sans-serif;
   font-size: 1.5rem;
   font-weight: bold;
   margin: 0;
@@ -45,7 +41,7 @@ dt {
   font-family: "Georgia", serif;
   font-size: 0.875rem;
   display: inline-block;
-  margin-right: 0x;
+  margin-right: 0;
   width: 120px;
 }
 
